@@ -5,11 +5,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:ionicons/ionicons.dart';
 
-import '../../common/app_dimens.dart';
-import '../../common/app_spacing.dart';
-import '../../lang/cubit/config_cubit.dart';
-import '../../lang/utils/utils.dart';
-import 'bloc/application_bloc.dart';
+import '../../../common/app_dimens.dart';
+import '../../../common/app_spacing.dart';
+import '../../../lang/cubit/config_cubit.dart';
+import '../../../lang/utils/utils.dart';
+import '../bloc/application_bloc.dart';
 
 class ConfigPage extends StatelessWidget {
   const ConfigPage({super.key});

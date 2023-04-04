@@ -1,12 +1,12 @@
 // ignore_for_file: always_use_package_imports, omit_local_variable_types
 
-import 'package:boilerplateapp/features/application/about_page.dart';
-import 'package:boilerplateapp/features/application/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 import 'cubit/bottom_nav_cubit.dart';
-import 'features_page.dart';
+import 'pages/about_page.dart';
+import 'pages/features_page.dart';
+import 'pages/home_page.dart';
 import 'widgets/app_bar_gone.dart';
 import 'widgets/bottom_nav_bar.dart';
 

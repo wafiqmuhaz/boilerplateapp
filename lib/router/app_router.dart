@@ -3,10 +3,10 @@
 import 'package:flutter/foundation.dart';
 import 'package:go_router/go_router.dart';
 
-import '../features/application/about_page.dart';
-import '../features/application/config_page.dart';
-import '../features/application/features_page.dart';
-import '../features/application/home_page.dart';
+import '../features/application/pages/about_page.dart';
+import '../features/application/pages/config_page.dart';
+import '../features/application/pages/features_page.dart';
+import '../features/application/pages/home_page.dart';
 import '../features/application/skeleton_page.dart';
 import '../features/demo/ui/assets_page.dart';
 import '../features/demo/ui/images_from_db_page.dart';

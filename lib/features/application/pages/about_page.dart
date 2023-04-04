@@ -5,12 +5,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:ionicons/ionicons.dart';
 
-import './widgets/header.dart';
-import './widgets/second_screen/grid_item.dart';
-import './widgets/second_screen/link_card.dart';
-import './widgets/second_screen/text_divider.dart';
-import '../../common/app_spacing.dart';
-import 'bloc/application_bloc.dart';
+import '../../../common/app_spacing.dart';
+import '../bloc/application_bloc.dart';
+import '../widgets/header.dart';
+import '../widgets/second_screen/grid_item.dart';
+import '../widgets/second_screen/link_card.dart';
+import '../widgets/second_screen/text_divider.dart';
 
 class AboutPage extends StatelessWidget {
   const AboutPage({super.key});

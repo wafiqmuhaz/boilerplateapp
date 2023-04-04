@@ -6,12 +6,12 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:ionicons/ionicons.dart';
 
-import '../../common/app_spacing.dart';
-import '../../lang/lang.dart';
-import '../../router/app_router.dart';
-import 'bloc/application_bloc.dart';
-import 'widgets/header.dart';
-import 'widgets/second_screen/text_divider.dart';
+import '../../../common/app_spacing.dart';
+import '../../../lang/lang.dart';
+import '../../../router/app_router.dart';
+import '../bloc/application_bloc.dart';
+import '../widgets/header.dart';
+import '../widgets/second_screen/text_divider.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
