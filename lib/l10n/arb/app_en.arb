@@ -1,0 +1,143 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "load_failed": "Load failed",
+    "dog_image_random": "Dog image random",
+    "load_image": "Load image",
+    "go_route": "Go route",
+    "press_button": "Press button",
+    "config": "Config",
+    "english": "English",
+    "vietnamese": "Vietnamese",
+    "dark_mode": "Dark mode",
+    "assets": "Assets gen",
+    "load_and_insert_db": "Load and insert DB",
+    "image_from_db": "Image from DB",
+    "delete_success": "Delete success",
+    "delete_failed": "Delete failed",
+    "didnt_supported": "Floor didnt support",
+    "kBoilerplateName": "Boilerplate",
+    "kLanguageIndonesia": "Indonesian",
+    "kToggle": "Toggle",
+    "kTheme": "Theme",
+    "kLanguage": "Select a language",
+
+    "kApp_name": "Flutter Production Boilerplate",
+
+    "kApp_name_2": "Flutter Boilerplate",
+
+    "kBottom_nav_first": "Home",
+    "kBottom_nav_second": "Info",
+
+    "kLocalization_title": "Localization",
+    "kLocalization_content": "Simplified translations with the L10n package.",
+
+    "kLinting_title": "Linting",
+    "kLinting_content": "Stricter linting rules with flutter lints recommended by the Dart team.",
+
+    "kStorage_title": "Storage",
+    "kStorage_content": "Blazing fast key-value database written in pure Dart with Hive.",
+
+    "kDark_mode_title": "Dark Mode",
+    "kDark_mode_content": "Smooth transition to dark mode by using the inbuilt theming engine.",
+
+    "kState_title": "State",
+    "kState_content": "Powerful state management using Cubit & BLOC.",
+
+    "kDisplay_title": "Display",
+    "kDisplay_content": "Support for high refresh rate displays with the flutter displaymode package.",
+
+    "kLanguage_switch_title": "Use german",
+
+    "kGithub_card_title": "GitHub repository",
+    "kWebsite_card_title": "Website",
+    "kTwitter_card_title": "Twitter",
+    "kInstagram_card_title": "Instagram",
+    "kDonate_card_title": "Donate",
+
+    "kAuthor_divider_title": "Author",
+    "kPackages_divider_title": "Packages",
+
+    "kFlutter_bloc": "Flutter bloc",
+    "kBloc": "Bloc",
+    "kHydrated_bloc": "Hydrated bloc",
+    "kEquatable": "Equatable",
+    "kLints": "Flutter Lints",
+    "kPath_provider": "Path provider",
+    "kFlutter_displaymode": "Displaymode",
+    "kEasy_localization": "Easy localization",
+    "kHive": "Hive",
+    "kUrl_launcher": "Url launcher",
+    "kIonicons": "Ionicons",
+
+    "kLinkedIn": "LinkedIn",
+
+    "kExamples": "Examples",
+    "kFeatures": "Features",
+
+    "kFoundation": "Foundation",
+
+    "kComingSoon": "Coming Soon",
+
+    "kLatestStableFlutterVersion": "Latest stable Flutter version",
+    "kLatestStableFlutterVersionDesc": "Our application offers the latest stable Flutter version, ensuring a seamless and efficient user experience.",
+
+    "kNullSafety": "Null Safety",
+    "kNullSafetyDesc": "Equipped with several advanced features, such as Null Safety, providing a safer and more reliable experience for developers.",
+
+    "kBuildFlavors": "Build Flavors",
+    "kBuildFlavorsDesc": "Allowing developers to create and customize multiple versions of the app for different target audiences.",
+
+    "kCustomSplashScreen": "Custom Splash Screen",
+
+    "kCustomAppIcons": "Custom App Icons",
+
+    "kSecureStorage": "Secure Storage\n(Keystore/ Keychain)",
+
+    "kAutomationMaintenance": "Automation & Maintenance",
+
+    "kGitHubActionsWorkflows": "GitHub Actions Workflows",
+    "kGitHubActionsWorkflowsDesc": "Streamlining the development and deployment process by automating tasks such as building, testing, and deploying code changes.",
+
+    "kComprehensiveUnitTests": "Comprehensive Unit Tests",
+    "kComprehensiveUnitTestsDesc": "Equipped with Comprehensive Unit Tests, ensuring the stability and reliability of the app.",
+
+    "kComprehensiveWidgetTests": "Comprehensive Widget Tests",
+    "kComprehensiveWidgetTestsDesc": "Equipped with Comprehensive Widget Tests, ensuring the stability and functionality of the app's user interface.",
+
+    "kForceUpgrade": "Force Upgrade",
+    "kDownforMaintenance": "Down for Maintenance\n(Kill Switch)",
+
+    "kInAppReviewSupport": "In-App Review Support",
+
+    "kCICD": "CI/CD with ?",
+
+    "kUserManagement": "User Management",
+
+    "kGoogleSignIn": "Google Sign In Integration",
+
+    "kAppleSignIn": "Login with Apple Sign In",
+
+    "kEmailSignIn": "Login with Email & Password",
+
+    "kEmailSignUp": "Create Account with Email & Password",
+
+    "kPermissionsIntegration": "PermissionsIntegration",
+
+    "kFormValidation": "Form Validation",
+
+    "kAnalyticsBackend": "Analytics & Backend",
+
+    "kFirebaseAnalyticsIntegration": "Firebase Analytics Integration",
+
+    "kFirestoreIntegration": "Firestore Integration",
+
+    "kCrashReporting": "Crash Reporting\n(Crashlytics)",
+    "kCrashReportingDesc": "Includes Crash Reporting (Crashlytics), allowing developers to identify and troubleshoot crashes quickly and efficiently.",
+
+    "kLogging": "Logging",
+    "kLoggingDesc": "Included features Logging, providing developers with valuable insights into app performance and user behavior."
+}

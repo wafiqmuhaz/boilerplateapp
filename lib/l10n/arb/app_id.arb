@@ -1,0 +1,143 @@
+{
+    "@@locale": "id",
+    "counterAppBarTitle": "Penghitung",
+    "@counterAppBarTitle": {
+        "description": "Teks ditampilkan di AppBar Halaman Penghitung"
+    },
+    "load_failed": "Gagal memuat",
+    "dog_image_random": "Gambar anjing acak",
+    "load_image": "Muat gambar",
+    "go_route": "Jalankan rute",
+    "press_button": "Tekan tombol",
+    "config": "Konfigurasi",
+    "english": "Inggris",
+    "vietnamese": "Vietnam",
+    "dark_mode": "Mode gelap",
+    "assets": "Gen aset",
+    "load_and_insert_db": "Muat dan masukkan DB",
+    "image_from_db": "Gambar dari DB",
+    "delete_success": "Hapus berhasil",
+    "delete_failed": "Gagal menghapus",
+    "didnt_supported": "Lantai tidak mendukung",
+    "kBoilerplateName": "Boilerplate",
+    "kLanguageIndonesia": "Bahasa Indonesia",
+    "kToggle": "Beralih",
+    "kTheme": "Tema",
+    "kLanguage": "Pilih bahasa",
+
+    "kApp_name": "Boilerplate Produksi Flutter",
+
+    "kApp_name_2": "Boilerplate Flutter",
+
+    "kBottom_nav_first": "Beranda",
+    "kBottom_nav_second": "Informasi",
+
+    "kLocalization_title": "Penerjemahan",
+    "kLocalization_content": "Penerjemahan yang disederhanakan dengan paket L10n.",
+
+    "kLinting_title": "Linting",
+    "kLinting_content": "Aturan linting yang lebih ketat dengan flutter lints yang direkomendasikan oleh tim Dart.",
+
+    "kStorage_title": "Penyimpanan",
+    "kStorage_content": "Database kunci-nilai super cepat yang ditulis dalam bahasa Dart murni dengan Hive.",
+
+    "kDark_mode_title": "Mode Gelap",
+    "kDark_mode_content": "Transisi yang halus ke mode gelap dengan menggunakan mesin pewarnaan bawaan.",
+
+    "kState_title": "State",
+    "kState_content": "Manajemen state yang kuat menggunakan Cubit & BLOC.",
+
+    "kDisplay_title": "Tampilan",
+    "kDisplay_content": "Dukungan untuk tampilan dengan refresh rate tinggi dengan paket flutter displaymode.",
+
+    "kLanguage_switch_title": "Gunakan bahasa Jerman",
+
+    "kGithub_card_title": "Repositori GitHub",
+    "kWebsite_card_title": "Situs web",
+    "kTwitter_card_title": "Twitter",
+    "kInstagram_card_title": "Instagram",
+    "kDonate_card_title": "Donasi",
+
+    "kAuthor_divider_title": "Penulis",
+    "kPackages_divider_title": "Paket",
+
+    "kFlutter_bloc": "Flutter bloc",
+    "kBloc": "Bloc",
+    "kHydrated_bloc": "Hydrated bloc",
+    "kEquatable": "Equatable",
+    "kLints": "Flutter Lints",
+    "kPath_provider": "Path provider",
+    "kFlutter_displaymode": "Displaymode",
+    "kEasy_localization": "Easy localization",
+    "kHive": "Hive",
+    "kUrl_launcher": "Url launcher",
+    "kIonicons": "Ionicons",
+
+    "kLinkedIn": "LinkedIn",
+
+    "kExamples": "Contoh",
+    "kFeatures": "Fitur",
+
+    "kFoundation": "Dasar",
+
+    "kComingSoon": "Segera Hadir",
+
+    "kLatestStableFlutterVersion": "Versi Flutter Stabil Terbaru",
+    "kLatestStableFlutterVersionDesc": "Aplikasi kami menawarkan versi Flutter stabil terbaru, memastikan pengalaman pengguna yang mulus dan efisien.",
+
+    "kNullSafety": "Null Safety",
+    "kNullSafetyDesc": "Dilengkapi dengan beberapa fitur canggih, seperti Null Safety, yang menyediakan pengalaman yang lebih aman dan dapat diandalkan bagi para pengembang.",
+
+    "kBuildFlavors": "Build Flavors",
+    "kBuildFlavorsDesc": "Memungkinkan para pengembang untuk membuat dan menyesuaikan beberapa versi aplikasi untuk berbagai audiens target.",
+
+    "kCustomSplashScreen": "Splash Screen Kustom",
+
+    "kCustomAppIcons": "Icon Aplikasi Kustom",
+
+    "kSecureStorage": "Penyimpanan Aman\n(Keystore/ Keychain)",
+
+    "kAutomationMaintenance": "Otomatisasi & Pemeliharaan",
+
+    "kGitHubActionsWorkflows": "Alur Kerja Tindakan GitHub",
+    "kGitHubActionsWorkflowsDesc": "Mempermudah proses pengembangan dan penyebaran dengan mengotomatisasi tugas-tugas seperti membangun, menguji, dan menyebarluaskan perubahan kode.",
+
+    "kComprehensiveUnitTests": "Penguji Unit Komprehensif",
+    "kComprehensiveUnitTestsDesc": "Dilengkapi dengan Penguji Unit Komprehensif, memastikan stabilitas dan keandalan aplikasi.",
+
+    "kComprehensiveWidgetTests": "Penguji Widget Komprehensif",
+    "kComprehensiveWidgetTestsDesc": "Dilengkapi dengan Penguji Widget Komprehensif, memastikan stabilitas dan fungsionalitas antarmuka pengguna aplikasi.",
+
+    "kForceUpgrade": "Pembaruan Paksa",
+    "kDownforMaintenance": "Sedang Dalam Pemeliharaan\n(Kill Switch)",
+
+    "kInAppReviewSupport": "Dukungan Ulasan Di Dalam Aplikasi",
+
+    "kCICD": "CI/CD dengan ?",
+
+    "kUserManagement": "Manajemen Pengguna",
+
+    "kGoogleSignIn": "Integrasi Masuk Google",
+
+    "kAppleSignIn": "Masuk dengan Masuk Apple",
+
+    "kEmailSignIn": "Masuk dengan Email & Kata Sandi",
+
+    "kEmailSignUp": "Buat Akun dengan Email & Kata Sandi",
+
+    "kPermissionsIntegration": "Integrasi Izin",
+
+    "kFormValidation": "Validasi Formulir",
+
+    "kAnalyticsBackend": "Analitik & Backend",
+
+    "kFirebaseAnalyticsIntegration": "Integrasi Analitik Firebase",
+
+    "kFirestoreIntegration": "Integrasi Firestore",
+
+    "kCrashReporting": "Pelaporan Crash\n(Crashlytics)",
+    "kCrashReportingDesc": "Termasuk Pelaporan Crash (Crashlytics), memungkinkan pengembang untuk mengidentifikasi dan menyelesaikan masalah crash dengan cepat dan efisien.",
+
+    "kLogging": "Logging",
+    "kLoggingDesc": "Fitur Logging tercakup, memberikan wawasan berharga bagi pengembang tentang performa aplikasi dan perilaku pengguna."
+}

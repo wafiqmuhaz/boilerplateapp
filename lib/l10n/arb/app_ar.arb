@@ -1,0 +1,144 @@
+{
+    "@@locale": "ar",
+    "counterAppBarTitle": "العداد",
+    "@counterAppBarTitle": {
+        "description": "النص المعروض في شريط التطبيقات لصفحة العداد"
+    },
+    "load_failed": "فشل التحميل",
+    "dog_image_random": "صورة كلب عشوائية",
+    "load_image": "تحميل الصورة",
+    "go_route": "الانتقال إلى المسار",
+    "press_button": "اضغط الزر",
+    "config": "التكوين",
+    "english": "الإنجليزية",
+    "vietnamese": "الفيتنامية",
+    "dark_mode": "الوضع الداكن",
+    "assets": "توليد الموارد",
+    "load_and_insert_db": "تحميل وإدخال البيانات في قاعدة البيانات",
+    "image_from_db": "الصورة من قاعدة البيانات",
+    "delete_success": "تم الحذف بنجاح",
+    "delete_failed": "فشل الحذف",
+    "didnt_supported": "قاعدة البيانات Floor غير مدعومة",
+    "kBoilerplateName": "Boilerplate",
+    "kLanguageIndonesia": "الإندونيسية",
+    "kToggle": "تبديل",
+    "kTheme": "الموضوع",
+    "kLanguage": "اختيار اللغة",
+
+    "kApp_name": "Boilerplate إنتاج Flutter",
+
+    "kApp_name_2": "Boilerplate Flutter",
+
+    "kBottom_nav_first": "الرئيسية",
+    "kBottom_nav_second": "معلومات",
+
+    "kLocalization_title": "الترجمة",
+    "kLocalization_content": ".ترجمات مبسطة باستخدام حزمة ل١٠ن",
+
+    "kLinting_title": "Linting",
+    "kLinting_content": "قواعد Linting أكثر صرامة باستخدام Flutter Lints الموصى بها من فريق Dart.",
+
+    "kStorage_title": "التخزين",
+    "kStorage_content": "قاعدة بيانات مفتوحة المصدر سريعة جدًا لقيم المفاتيح مكتوبة بلغة Dart النقية مع Hive.",
+
+    "kDark_mode_title": "الوضع الداكن",
+    "kDark_mode_content": "انتقال سلس إلى الوضع الداكن باستخدام محرك السمات المضمن.",
+
+    "kState_title": "الحالة",
+    "kState_content": "إدارة حالة قوية باستخدام Cubit & BLOC.",
+
+    "kDisplay_title": "الشاشة",
+    "kDisplay_content": "دعم الشاشات ذات معدل تحديث عالٍ باستخدام حزمة Flutter وضع الشاشة.",
+
+    "kLanguage_switch_title": "استخدام الألمانية",
+
+    "kGithub_card_title": "مستودع GitHub",
+    "kWebsite_card_title": "موقع إلكتروني",
+    "kTwitter_card_title": "تويتر",
+    "kInstagram_card_title": "إنستغرام",
+    "kDonate_card_title": "تبرع",
+
+    "kAuthor_divider_title": "المؤلف",
+    "kPackages_divider_title": "الحزم",
+
+    "kFlutter_bloc": "Flutter bloc",
+    "kBloc": "Bloc",
+    "kHydrated_bloc": "Hydrated bloc",
+    "kEquatable": "Equatable",
+    "kLints": "Flutter Lints",
+    "kPath_provider": "موفر المسار",
+    "kFlutter_displaymode": "Displaymode",
+    "kEasy_localization": "Easy localization",
+    "kHive": "Hive",
+    "kUrl_launcher": "مشغل الرابط",
+    "kIonicons": "أيونيكونز",
+
+    "kLinkedIn": "LinkedIn",
+
+    "kExamples": "أمثلة",
+    "kFeatures": "المميزات",
+
+    "kFoundation": "الأساس",
+
+    "kComingSoon": "قريبًا",
+
+    "kLatestStableFlutterVersion": "أحدث إصدار مستقر من Flutter",
+    "kLatestStableFlutterVersionDesc": "يوفر تطبيقنا أحدث إصدار مستقر من Flutter، مما يضمن تجربة مستخدم سلسة وفعالة.",
+
+    "kNullSafety": "Null Safety",
+    "kNullSafetyDesc": "مجهزة بالعديد من الميزات المتقدمة، مثل Null Safety، مما يوفر تجربة أكثر أمانًا وموثوقية للمطورين.",
+
+    "kBuildFlavors": "Build Flavors",
+    "kBuildFlavorsDesc": "يتيح للمطورين إنشاء وتخصيص عدة إصدارات من التطبيق لجمهور مستهدف مختلف.",
+
+    "kCustomSplashScreen": "شاشة ترحيب مخصصة",
+
+    "kCustomAppIcons": "أيقونات التطبيق المخصصة",
+
+    "kSecureStorage": "تخزين آمن\n(Keystore/ Keychain)",
+
+    "kAutomationMaintenance": "الأتمتة والصيانة",
+
+    "kGitHubActionsWorkflows": "سير العمل لـ GitHub Actions",
+    "kGitHubActionsWorkflowsDesc": "تبسيط عملية التطوير والنشر عن طريق أتمتة المهام مثل بناء واختبار ونشر تغييرات الشفرة.",
+
+    "kComprehensiveUnitTests": "اختبارات الوحدة الشاملة",
+    "kComprehensiveUnitTestsDesc": "مجهزة بـ اختبارات الوحدة الشاملة، مما يضمن الاستقرار والموثوقية للتطبيق.",
+
+    "kComprehensiveWidgetTests": "اختبارات الويدجت الشاملة",
+    "kComprehensiveWidgetTestsDesc": "مجهزة بـ اختبارات الويدجت الشاملة، مما يضمن استقرار ووظائف واجهة المستخدم للتطبيق.",
+
+    "kForceUpgrade": "إجبار الترقية",
+    "kDownforMaintenance": "تعطيل للصيانة\n(Kill Switch)",
+
+    "kInAppReviewSupport": "دعم مراجعة التطبيق في التطبيق",
+
+    "kCICD": "CI/CD مع؟",
+
+    "kUserManagement": "إدارة المستخدمين",
+
+    "kGoogleSignIn": "تكامل تسجيل الدخول باستخدام حساب Google",
+
+    "kAppleSignIn": "تسجيل الدخول باستخدام Apple Sign In",
+
+    "kEmailSignIn": "تسجيل الدخول باستخدام البريد الإلكتروني وكلمة المرور",
+
+    "kEmailSignUp": "إنشاء حساب باستخدام البريد الإلكتروني وكلمة المرور",
+
+    "kPermissionsIntegration": "تكامل الأذونات",
+
+    "kFormValidation": "تحقق من النماذج",
+
+    "kAnalyticsBackend": "تحليلات وخلفية",
+
+    "kFirebaseAnalyticsIntegration": "تكامل تحليلات Firebase",
+
+    "kFirestoreIntegration": "تكامل Firestore",
+
+    "kCrashReporting": "تقارير الأعطال\n(Crashlytics)",
+    "kCrashReportingDesc": "تتضمن تقارير الأعطال (Crashlytics) ، مما يتيح للمطورين التعرف على الأعطال وإصلاحها بسرعة وكفاءة.",
+
+    "kLogging": "تسجيل الدخول",
+    "kLoggingDesc": "يشمل ميزات التسجيل ، والتي توفر للمطورين إدراكًا قيمًا حول أداء التطبيق وسلوك المستخدم."
+
+}

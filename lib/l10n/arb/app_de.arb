@@ -1,0 +1,144 @@
+{
+    "@@locale": "de",
+    "counterAppBarTitle": "Zähler",
+    "@counterAppBarTitle": {
+        "description": "Text, der in der AppBar der Zählerseite angezeigt wird"
+    },
+    "load_failed": "Laden fehlgeschlagen",
+    "dog_image_random": "Zufälliges Hundebild",
+    "load_image": "Bild laden",
+    "go_route": "Route gehen",
+    "press_button": "Taste drücken",
+    "config": "Konfiguration",
+    "english": "Englisch",
+    "vietnamese": "Vietnamesisch",
+    "dark_mode": "Dunkler Modus",
+    "assets": "Assets-Generierung",
+    "load_and_insert_db": "Laden und Einfügen der DB",
+    "image_from_db": "Bild aus der DB",
+    "delete_success": "Löschen erfolgreich",
+    "delete_failed": "Löschen fehlgeschlagen",
+    "didnt_supported": "Boden nicht unterstützt",
+    "kBoilerplateName": "Boilerplate",
+    "kLanguageIndonesia": "Indonesisch",
+    "kToggle": "Umschalten",
+    "kTheme": "Thema",
+    "kLanguage": "Wähle eine Sprache aus",
+
+    "kApp_name": "Flutter Produktions Boilerplate",
+
+    "kApp_name_2": "Flutter Boilerplate",
+
+    "kBottom_nav_first": "Startseite",
+    "kBottom_nav_second": "Info",
+
+    "kLocalization_title": "Lokalisierung",
+    "kLocalization_content": "Vereinfachte Übersetzungen mit dem L10n Paket.",
+
+    "kLinting_title": "Linting",
+    "kLinting_content": "Striktere Linting-Regeln mit den von Dart empfohlenen flutter lints.",
+
+    "kStorage_title": "Speicher",
+    "kStorage_content": "Schnelle Key-Value-Datenbank in reinem Dart mit Hive.",
+
+    "kDark_mode_title": "Dunkler Modus",
+    "kDark_mode_content": "Sanfter Übergang zum dunklen Modus durch Verwendung des integrierten Theming-Engine.",
+
+    "kState_title": "Zustand",
+    "kState_content": "Leistungsstarke Zustandsverwaltung mit Cubit & BLOC.",
+
+    "kDisplay_title": "Anzeige",
+    "kDisplay_content": "Unterstützung für Displays mit hoher Bildwiederholfrequenz mit dem Flutter Displaymode-Paket.",
+
+    "kLanguage_switch_title": "Deutsch verwenden",
+
+    "kGithub_card_title": "GitHub-Repository",
+    "kWebsite_card_title": "Website",
+    "kTwitter_card_title": "Twitter",
+    "kInstagram_card_title": "Instagram",
+    "kDonate_card_title": "Spenden",
+
+    "kAuthor_divider_title": "Autor",
+    "kPackages_divider_title": "Pakete",
+
+    "kFlutter_bloc": "Flutter bloc",
+    "kBloc": "Bloc",
+    "kHydrated_bloc": "Hydrated bloc",
+    "kEquatable": "Equatable",
+    "kLints": "Flutter Lints",
+    "kPath_provider": "Pfadprovider",
+    "kFlutter_displaymode": "Anzeigemodus",
+    "kEasy_localization": "Einfache Lokalisierung",
+    "kHive": "Hive",
+    "kUrl_launcher": "Url launcher",
+    "kIonicons": "Ionicons",
+
+    "kLinkedIn": "LinkedIn",
+
+    "kExamples": "Beispiele",
+    "kFeatures": "Funktionen",
+
+    "kFoundation": "Grundlage",
+
+    "kComingSoon": "Kommt bald",
+
+    "kLatestStableFlutterVersion": "Neueste stabile Flutter-Version",
+    "kLatestStableFlutterVersionDesc": "Unsere Anwendung bietet die neueste stabile Flutter-Version und sorgt somit für eine nahtlose und effiziente Benutzererfahrung.",
+
+    "kNullSafety": "Nullsicherheit",
+    "kNullSafetyDesc": "Ausgestattet mit mehreren fortschrittlichen Funktionen wie der Nullsicherheit, die für Entwickler eine sicherere und zuverlässigere Erfahrung bietet.",
+
+    "kBuildFlavors": "Build-Flavors",
+    "kBuildFlavorsDesc": "Ermöglicht Entwicklern, mehrere Versionen der App für unterschiedliche Zielgruppen zu erstellen und anzupassen.",
+
+    "kCustomSplashScreen": "Benutzerdefinierter Splash Screen",
+
+    "kCustomAppIcons": "Benutzerdefinierte App-Icons",
+
+    "kSecureStorage": "Sicherer Speicher\n(Schlüsselspeicher/Keychain)",
+
+    "kAutomationMaintenance": "Automatisierung & Wartung",
+
+    "kGitHubActionsWorkflows": "GitHub Actions-Workflows",
+    "kGitHubActionsWorkflowsDesc": "Automatisierung von Aufgaben wie dem Erstellen, Testen und Bereitstellen von Code-Änderungen, um den Entwicklungs- und Bereitstellungsprozess zu optimieren.",
+
+    "kComprehensiveUnitTests": "Umfassende Unit-Tests",
+    "kComprehensiveUnitTestsDesc": "Ausgestattet mit umfassenden Unit-Tests, die die Stabilität und Zuverlässigkeit der App gewährleisten.",
+
+    "kComprehensiveWidgetTests": "Umfassende Widget-Tests",
+    "kComprehensiveWidgetTestsDesc": "Ausgestattet mit umfassenden Widget-Tests, die die Stabilität und Funktionalität der Benutzeroberfläche der App gewährleisten.",
+
+    "kForceUpgrade": "Erzwungene Aktualisierung",
+    "kDownforMaintenance": "Wartungsarbeiten\n(Kill Switch)",
+
+    "kInAppReviewSupport": "Unterstützung für Bewertungen in der App",
+
+    "kCICD": "CI/CD mit ?",
+
+    "kUserManagement": "Benutzerverwaltung",
+
+    "kGoogleSignIn": "Google-Anmeldung Integration",
+
+    "kAppleSignIn": "Anmeldung mit Apple-Anmeldung",
+
+    "kEmailSignIn": "Anmeldung mit E-Mail und Passwort",
+
+    "kEmailSignUp": "Konto erstellen mit E-Mail und Passwort",
+
+    "kPermissionsIntegration": "Berechtigungsintegration",
+
+    "kFormValidation": "Formularvalidierung",
+
+    "kAnalyticsBackend": "Analyse & Backend",
+
+    "kFirebaseAnalyticsIntegration": "Integration von Firebase Analytics",
+
+    "kFirestoreIntegration": "Firestore-Integration",
+
+    "kCrashReporting": "Crash-Berichterstattung (Crashlytics)",
+    "kCrashReportingDesc": "Enthält die Crash-Berichterstattung (Crashlytics), die Entwicklern ermöglicht, Abstürze schnell und effizient zu identifizieren und zu beheben.",
+
+    "kLogging": "Protokollierung",
+    "kLoggingDesc": "Enthält Funktionen zur Protokollierung, die Entwicklern wertvolle Einblicke in die Leistung und das Verhalten der Benutzer der App bieten."
+
+}

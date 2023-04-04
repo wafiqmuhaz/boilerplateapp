@@ -1,0 +1,144 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "load_failed": "Error al cargar",
+    "dog_image_random": "Imagen de perro aleatoria",
+    "load_image": "Cargar imagen",
+    "go_route": "Ir a la ruta",
+    "press_button": "Presione el botón",
+    "config": "Configuración",
+    "english": "Inglés",
+    "vietnamese": "Vietnamita",
+    "dark_mode": "Modo oscuro",
+    "assets": "Generación de activos",
+    "load_and_insert_db": "Cargar e insertar base de datos",
+    "image_from_db": "Imagen de la base de datos",
+    "delete_success": "Borrar con éxito",
+    "delete_failed": "Error al eliminar",
+    "didnt_supported": "El piso no fue compatible",
+    "kBoilerplateName": "Repetitivo",
+    "kLanguageIndonesia": "Indonesio",
+    "kToggle": "Cambiar",
+    "kTheme": "Tema",
+    "kLanguage": "Selecciona un idioma",
+
+    "kApp_name": "Plantilla de producción de Flutter",
+
+    "kApp_name_2": "Plantilla de Flutter",
+
+    "kBottom_nav_first": "Inicio",
+    "kBottom_nav_second": "Info",
+
+    "kLocalization_title": "Localización",
+    "kLocalization_content": "Traducciones simplificadas con el paquete L10n.",
+
+    "kLinting_title": "Linting",
+    "kLinting_content": "Reglas de linting más estrictas con flutter lints recomendadas por el equipo de Dart.",
+
+    "kStorage_title": "Almacenamiento",
+    "kStorage_content": "Base de datos de clave-valor extremadamente rápida escrita en Dart puro con Hive.",
+
+    "kDark_mode_title": "Modo oscuro",
+    "kDark_mode_content": "Transición suave al modo oscuro mediante el motor de temas incorporado.",
+
+    "kState_title": "Estado",
+    "kState_content": "Gestión de estado potente usando Cubit & BLOC.",
+
+    "kDisplay_title": "Visualización",
+    "kDisplay_content": "Soporte para pantallas con alta tasa de refresco con el paquete flutter displaymode.",
+
+    "kLanguage_switch_title": "Usar alemán",
+
+    "kGithub_card_title": "Repositorio de GitHub",
+    "kWebsite_card_title": "Sitio web",
+    "kTwitter_card_title": "Twitter",
+    "kInstagram_card_title": "Instagram",
+    "kDonate_card_title": "Donar",
+
+    "kAuthor_divider_title": "Autor",
+    "kPackages_divider_title": "Paquetes",
+
+    "kFlutter_bloc": "Flutter bloc",
+    "kBloc": "Bloc",
+    "kHydrated_bloc": "Hydrated bloc",
+    "kEquatable": "Equatable",
+    "kLints": "Flutter Lints",
+    "kPath_provider": "Proveedor de ruta",
+    "kFlutter_displaymode": "Displaymode",
+    "kEasy_localization": "Easy localization",
+    "kHive": "Hive",
+    "kUrl_launcher": "Lanzador de URL",
+    "kIonicons": "Ionicons",
+
+    "kLinkedIn": "LinkedIn",
+
+    "kExamples": "Ejemplos",
+    "kFeatures": "Funciones",
+
+    "kFoundation": "Fundación",
+
+    "kComingSoon": "Próximamente",
+
+    "kLatestStableFlutterVersion": "Última versión estable de Flutter",
+    "kLatestStableFlutterVersionDesc": "Nuestra aplicación ofrece la última versión estable de Flutter, asegurando una experiencia de usuario fluida y eficiente.",
+
+    "kNullSafety": "Null Safety",
+    "kNullSafetyDesc": "Equipado con varias características avanzadas, como Null Safety, proporcionando una experiencia más segura y confiable para los desarrolladores.",
+
+    "kBuildFlavors": "Sabores de compilación",
+    "kBuildFlavorsDesc": "Permitiendo a los desarrolladores crear y personalizar varias versiones de la aplicación para diferentes audiencias objetivo.",
+
+    "kCustomSplashScreen": "Pantalla de inicio personalizada",
+
+    "kCustomAppIcons": "Iconos de aplicación personalizados",
+
+    "kSecureStorage": "Almacenamiento seguro\n(Keystore/Keychain)",
+
+    "kAutomationMaintenance": "Automatización y mantenimiento",
+
+    "kGitHubActionsWorkflows": "Flujos de trabajo de GitHub Actions",
+    "kGitHubActionsWorkflowsDesc": "Agilizando el proceso de desarrollo e implementación automatizando tareas como la construcción, prueba e implementación de cambios de código.",
+
+    "kComprehensiveUnitTests": "Pruebas unitarias exhaustivas",
+    "kComprehensiveUnitTestsDesc": "Equipado con pruebas unitarias exhaustivas, asegurando la estabilidad y confiabilidad de la aplicación.",
+
+    "kComprehensiveWidgetTests": "Pruebas exhaustivas de widgets",
+    "kComprehensiveWidgetTestsDesc": "Equipado con pruebas exhaustivas de widgets, asegurando la estabilidad y funcionalidad de la interfaz de usuario de la aplicación.",
+
+    "kForceUpgrade": "Actualización forzada",
+    "kDownforMaintenance": "Cerrado por mantenimiento\n(Kill Switch)",
+
+    "kInAppReviewSupport": "Soporte de revisión en la aplicación",
+
+    "kCICD": "CI/CD con ?",
+
+    "kUserManagement": "Gestión de usuarios",
+
+    "kGoogleSignIn": "Integración de inicio de sesión de Google",
+
+    "kAppleSignIn": "Iniciar sesión con Apple Sign In",
+
+    "kEmailSignIn": "Iniciar sesión con correo electrónico y contraseña",
+
+    "kEmailSignUp": "Crear cuenta con correo electrónico y contraseña",
+
+    "kPermissionsIntegration": "Integración de permisos",
+
+    "kFormValidation": "Validación de formularios",
+
+    "kAnalyticsBackend": "Análisis y backend",
+
+    "kFirebaseAnalyticsIntegration": "Integración de Firebase Analytics",
+
+    "kFirestoreIntegration": "Integración de Firestore",
+
+    "kCrashReporting": "Informes de fallos\n(Crashlytics)",
+    "kCrashReportingDesc": "Incluye informes de fallos (Crashlytics), permitiendo a los desarrolladores identificar y solucionar problemas rápidamente y de manera eficiente.",
+
+    "kLogging": "Logging",
+
+    "kLoggingDesc": "Incluye funciones de registro (Logging), proporcionando a los desarrolladores información valiosa sobre el rendimiento de la aplicación y el comportamiento del usuario."
+}
